@@ -9,3 +9,4 @@ Feature: LogIn Action Test
     Then User search for "Search for products, brands and more"
     Then User click on criteria
     Then User prints the list of phones
+    Then User close the browser
