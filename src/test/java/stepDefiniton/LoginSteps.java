@@ -31,7 +31,7 @@ public class LoginSteps {
 		Thread.sleep(10000);
 		driver.findElement(By.cssSelector("//button[@class='_2KpZ6l _2doB4z']")).click();
 //		//driver.findElement(By.xpath("//span[text()='Enter Email/Mobile number']//parent::label//parent::div//input")).sendKeys("akshaygoyal@hotmail.com");
-//		//driver.findElement(By.xpath("//span[text()='Enter Password']//parent::label//parent::div//input")).sendKeys("aks@TCS9893");
+//		//driver.findElement(By.xpath("//span[text()='Enter Password']//parent::label//parent::div//input")).sendKeys("xyz");
 //		driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).click();
 //		driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).sendKeys("akshaygoyal@hotmail.com");
 //		driver.findElement(By.xpath("//span[text()='Login']//parent::button")).click();
